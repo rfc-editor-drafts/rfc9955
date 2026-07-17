@@ -611,7 +611,7 @@ Table of Contents
       | Artifacts exist in the hybrid signature, and verification
       | or failure of both components occurs simultaneously.
       | ----------------------------------------------------------|
-      ▼
+      V
 
       Figure 1: Spectrum of Non-Separability from Weakest to Strongest
 
@@ -980,7 +980,7 @@ Table of Contents
       | No new approval needed if at least one component
       | implementation is approved.
       | ---------------------------------------------------------|
-      ▼
+      V
 
                     Figure 2: Need for Approval Spectrum
 

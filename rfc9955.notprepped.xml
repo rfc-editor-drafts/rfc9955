@@ -516,7 +516,7 @@ representing degrees of separability hardness, visualized in
    | Artifacts exist in the hybrid signature, and verification     
    | or failure of both components occurs simultaneously.     
    | ----------------------------------------------------------|
-   ▼]]></artwork>
+   V]]></artwork>
       </figure>
       <t>At one end of the spectrum are schemes in which one of the component
 signatures can be stripped away with the verifier not being able to detect
@@ -904,7 +904,7 @@ signature. This may be related to whether a hybrid combiner is likely to need
    | No new approval needed if at least one component         
    | implementation is approved.                              
    | ---------------------------------------------------------|
-   ▼]]></artwork>
+   V]]></artwork>
       </figure>
 
       <t>The first listed "combiner" would be a new construction with a security

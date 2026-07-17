@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" ipr="trust200902" docName="draft-ietf-pquip-hybrid-signature-spectrums-07" number="9955" updates="" obsoletes="" consensus="true" xml:lang="en" category="info" submissionType="IETF" tocInclude="true" sortRefs="true" symRefs="true" prepTime="2026-07-16T00:52:09" indexInclude="true" scripts="Common,Latin" tocDepth="3">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" ipr="trust200902" docName="draft-ietf-pquip-hybrid-signature-spectrums-07" number="9955" updates="" obsoletes="" consensus="true" xml:lang="en" category="info" submissionType="IETF" tocInclude="true" sortRefs="true" symRefs="true" prepTime="2026-07-17T02:31:49" indexInclude="true" scripts="Common,Latin" tocDepth="3">
   <link href="https://datatracker.ietf.org/doc/draft-ietf-pquip-hybrid-signature-spectrums-07" rel="prev"/>
   <link href="https://dx.doi.org/10.17487/rfc9955" rel="alternate"/>
   <link href="urn:issn:2070-1721" rel="alternate"/>
@@ -673,7 +673,7 @@ representing degrees of separability hardness, visualized in
    | Artifacts exist in the hybrid signature, and verification     
    | or failure of both components occurs simultaneously.     
    | ----------------------------------------------------------|
-   ▼</artwork>
+   V</artwork>
       </figure>
       <t indent="0" pn="section-2-3">At one end of the spectrum are schemes in which one of the component
 signatures can be stripped away with the verifier not being able to detect
@@ -1060,7 +1060,7 @@ signature. This may be related to whether a hybrid combiner is likely to need
    | No new approval needed if at least one component         
    | implementation is approved.                              
    | ---------------------------------------------------------|
-   ▼</artwork>
+   V</artwork>
       </figure>
       <t indent="0" pn="section-4-7">The first listed "combiner" would be a new construction with a security
 reduction to different hardness assumptions but not necessarily to approved
